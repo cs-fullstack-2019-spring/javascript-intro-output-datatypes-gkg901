@@ -10,3 +10,7 @@ Add JavaScript inline (using <script> tags) that does the following:
 * Defines a numeric variable called ```age``` that contains your age
 
 * Write the code to log ```My name is YOURNAME and I am YOURAGE``` in the developer console
+
+var myName  = "Gerren";
+var age = 33;
+console.log("My name is "+myName+ " and I am "+ age);
