@@ -14,3 +14,6 @@ Add JavaScript inline (using <script> tags) that does the following:
 var myName  = "Gerren";
 var age = 33;
 console.log("My name is "+myName+ " and I am "+ age);
+
+
+### KEY - Correct! Well Done!
